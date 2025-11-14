@@ -19,7 +19,7 @@ with open(input_file, "r", encoding="utf-8") as fin, \
         fout.write(new_line + "\n")
         
 with open(output_file, "r", encoding="utf-8") as f:
-    print("Виводимо значення:")
+    print("Виводимо значення TF9_2.txt:")
     for row in f:
         print(repr(row.rstrip("\n")))
 

@@ -1,1 +1,1 @@
-# FileWork_Python_Lab
+# Ivashchenko Nikita ППМР1-105 Варіант 6
